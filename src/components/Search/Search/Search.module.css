@@ -1,0 +1,19 @@
+.form {
+  text-align: center;
+  margin: 4px 12px;
+}
+
+.form__input {
+  border-radius: 4px;
+  padding: 4px;
+  border: 1px solid #d7d7d7;
+  margin: 0 4px;
+  outline: none;
+}
+
+.form__button {
+  border-radius: 4px;
+  padding: 4px 12px;
+  border: 1px solid #d7d7d7;
+  outline: none;
+}

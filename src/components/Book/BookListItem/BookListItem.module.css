@@ -1,0 +1,31 @@
+.book-list-item {
+  border-bottom: 1px solid #d7d7d7;
+  margin: 4px 0;
+  padding: 8px 0;
+}
+
+.book-list-item:last-child {
+  border: none;
+}
+
+.book-list-item__title {
+  margin: 4px 0;
+}
+
+.book-list-item__sub-title {
+  display: flex;
+  font-size: 14px;
+}
+
+.book-list-item__sub-title p {
+  margin-right: 8px;
+}
+
+@media screen and (max-width: 576px) {
+  .book-list-item__sub-title {
+    display: flex;
+    font-size: 14px;
+    flex-direction: column;
+    text-align: start;
+  }
+}
