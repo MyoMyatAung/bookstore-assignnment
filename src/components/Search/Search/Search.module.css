@@ -15,5 +15,9 @@
   border-radius: 4px;
   padding: 4px 12px;
   border: 1px solid #d7d7d7;
-  outline: none;
+  cursor: pointer;
+}
+
+.form__button:active {
+  transform: translateY(2px);
 }

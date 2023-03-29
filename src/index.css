@@ -33,7 +33,6 @@ select option {
 }
 
 input, textarea, select, button:focus{
-  border: none;
   background-color: transparent;
   outline: none;
 }

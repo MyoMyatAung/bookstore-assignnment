@@ -3,3 +3,7 @@
   margin: 4px 12px;
   padding: 0;
 }
+
+.book-list__error {
+  text-align: center;
+}
