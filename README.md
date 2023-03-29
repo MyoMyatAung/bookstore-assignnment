@@ -5,3 +5,16 @@ This project is assignment project and developed for a bookstore. In this projec
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+
+What things you need to install the software and how to install them:
+
+  1. Node.js: https://nodejs.org
+
+## Installing
+
+A step by step series of examples that tell you how to get a development env running:
+
+  1. Clone the repository:
+  #
