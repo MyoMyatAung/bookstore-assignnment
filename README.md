@@ -16,5 +16,5 @@ What things you need to install the software and how to install them:
 
 A step by step series of examples that tell you how to get a development env running:
 
-Clone the repo:
+1. Clone the repo:
 ### `git clone git@github.com:MyoMyatAung/bookstore-assignnment.git`
