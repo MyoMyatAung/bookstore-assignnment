@@ -26,4 +26,4 @@ To start the development server, run:
 
 `npm start`
 
-This will start the development server and open the project in your default browser [https://localhost:3000](http://localhost:3000). Any changes you make to the code will be automatically reloaded in the browser.
+This will start the development server and open the project in your default browser at [https://localhost:3000](http://localhost:3000). Any changes you make to the code will be automatically reloaded in the browser.
