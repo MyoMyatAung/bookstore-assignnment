@@ -20,3 +20,8 @@ A step by step series of examples that tell you how to get a development env run
 2. Navigate to the project directory: `cd bookstore-assignment`
 3. Install dependencies: `npm install`
 
+## Running
+
+To start the development server, run:
+`npm start`
+This will start the development server and open the project in your default browser [https://localhost:3000]. Any changes you make to the code will be automatically reloaded in the browser.
